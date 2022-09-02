@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alphaF56Dev
-- 👀 I’m interested in 
+- 👀 I'm interested in participating in software development projects where I can test my knowledge and grow more professionally.
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on development projects in c#, java or JavaScript to improve my knowledge in software developer 
 - 📫 You can contact me on ing.ti.alopezf@gmail.com
